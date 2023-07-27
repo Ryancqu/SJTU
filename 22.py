@@ -1,6 +1,6 @@
 import pydicom
 import os
-
+*做视频用
 info = {}
 # 读取dicom文件
 dcm = pydicom.read_file("test.dcm")
